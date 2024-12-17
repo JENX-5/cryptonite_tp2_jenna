@@ -25,8 +25,8 @@ We found this file. Recover the flag.
 ![Screenshot from 2024-12-17 18-30-27](https://github.com/user-attachments/assets/34ccff48-193f-47c1-a852-e06fc438773a)
 - In the top right is the flag, but it is cut off, so extended the height to 900.
 ![image](https://github.com/user-attachments/assets/4e566baf-2beb-412f-bbc7-efbf19fd4d11)
-- Now the flag is seen. Top right
-![Screenshot from 2024-12-17 18-28-51](https://github.com/user-attachments/assets/92a49f4b-a8d7-4cdf-b810-391a49049af5)
+- Now the flag is seen. The picture colors were still off, so I changed the offset to 36 bytes too.
+![image](https://github.com/user-attachments/assets/34efcdc3-fbcf-4878-a73c-607cd33c472f)
 
 > FLAG: picoCTF{qu1t3_a_v13w_2020}
 
